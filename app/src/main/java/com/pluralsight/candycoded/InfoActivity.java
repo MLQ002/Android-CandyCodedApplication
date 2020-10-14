@@ -9,6 +9,8 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
+import static android.content.Intent.ACTION_DIAL;
+
 public class InfoActivity extends AppCompatActivity {
 
     @Override
@@ -22,7 +24,6 @@ public class InfoActivity extends AppCompatActivity {
                 load(uri).
                 into(candyStoreImageView);
 
-
     }
 
     public void createMapIntent(View view) {
@@ -35,10 +36,11 @@ public class InfoActivity extends AppCompatActivity {
 
     }
 
+    public void createPhoneIntent(View view) {
+        Intent callIntent = new Intent(Intent.ACTION_DIAL);
+        callIntent.setData(Uri.parse("tel:0123456789"));
+            startActivity(callIntent);
 
+    }
 
-
-    // ***
-    // TODO - Task 3 - Launch the Phone Activity
-    // ***
 }
