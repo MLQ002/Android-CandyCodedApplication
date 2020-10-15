@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602763133256</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="stage 4 commit">
+      <created>1602764682397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602764682397</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,34 +288,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="506" y="223" width="438" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1602700494135" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1602763809379">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1602765555006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602763809379" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602765555006" />
     <state x="464" y="119" key="FileChooserDialogImpl" timestamp="1602623467383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="464" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602623467383" />
-    <state width="1306" height="167" key="GridCell.Tab.0.bottom" timestamp="1602763818859">
+    <state width="1306" height="167" key="GridCell.Tab.0.bottom" timestamp="1602765218977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602763818859" />
-    <state width="1306" height="167" key="GridCell.Tab.0.center" timestamp="1602763818859">
+    <state width="1306" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602765218977" />
+    <state width="1306" height="167" key="GridCell.Tab.0.center" timestamp="1602765218977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602763818859" />
-    <state width="1306" height="167" key="GridCell.Tab.0.left" timestamp="1602763818859">
+    <state width="1306" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602765218977" />
+    <state width="1306" height="167" key="GridCell.Tab.0.left" timestamp="1602765218977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602763818859" />
-    <state width="1306" height="167" key="GridCell.Tab.0.right" timestamp="1602763818859">
+    <state width="1306" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602765218977" />
+    <state width="1306" height="167" key="GridCell.Tab.0.right" timestamp="1602765218977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602763818859" />
-    <state x="317" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602763084943">
+    <state width="1306" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602765218977" />
+    <state x="317" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602765214887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="317" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602763084943" />
+    <state x="317" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602765214887" />
     <state x="381" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602764129790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
